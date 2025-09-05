@@ -5,7 +5,7 @@ This repository shows how to execute a heart-trajectory using MoveIt and how to 
 ## Commands for the execution:
 ```
 - cd ~/catkin_ws/src
-'Copy and paste in catkin_ws/src the folder src, the file CMakeList.txt and the package.xml.'
+#Copy and paste in catkin_ws/src the folder src, the file CMakeList.txt and the package.xml.
 - cd ~/catkin_ws
 - catkin_make
 - source devel/setup.bash
